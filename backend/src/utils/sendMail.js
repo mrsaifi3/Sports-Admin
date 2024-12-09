@@ -25,9 +25,9 @@ const sendMail = async (to, subject, text, html) => {
     // Construct the footer HTML
     html += `<br><br>
     <div style="border-top: 1px solid #ddd; padding-top: 20px; margin-top: 20px; font-family: Arial, sans-serif; color: #555;">
-        <img src="https://res.cloudinary.com/dwiouayh7/image/upload/v1728839717/My%20Brand/veerRajpoot_mplaff.png" alt="Logo" width="200" height="auto" style="display: block; margin: 0;">
-        <p style="font-size: 16px; font-weight: bold; margin: 0;">Data Management by Veer Rajpoot</p>
-        <p style="font-size: 12px; margin: 5px 0;">&copy; ${new Date().getFullYear()} Veer Rajpoot. All rights reserved.</p>
+        <img src="https://i.ibb.co/Ny7Y5ST/image-removebg-preview.png" alt="Logo" width="200" height="auto" style="display: block; margin: 0;">
+        <p style="font-size: 16px; font-weight: bold; margin: 0;">Data Management by Mr Saifi</p>
+        <p style="font-size: 12px; margin: 5px 0;">&copy; ${new Date().getFullYear()} Mr Saifi. All rights reserved.</p>
         
         <div style="margin-top: 20px; font-size: 12px; color: #777;">
             <h4 style="margin: 5px 0;">Terms and Conditions</h4>
@@ -43,7 +43,7 @@ const sendMail = async (to, subject, text, html) => {
 
     const mailOptions = {
         from: {
-            name: "Veer Rajpoot",
+            name: "Mr Saifi",
             address: process.env.SMTP_EMAIL,
         },
         to,

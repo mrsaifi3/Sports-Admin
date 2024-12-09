@@ -164,7 +164,7 @@ const Login = ({ setStage, setSessionExpiry }) => {
                         <div className="text-center space-y-8">
                             <img
                                 className="dark:invert mx-auto h-32"
-                                src="https://res.cloudinary.com/dwiouayh7/image/upload/v1728839717/My%20Brand/veerRajpoot_mplaff.png"
+                                src="https://i.ibb.co/Ny7Y5ST/image-removebg-preview.png"
                                 alt="Brand Logo"
                             />
                             <p className="text-lg font-semibold text-red-600">

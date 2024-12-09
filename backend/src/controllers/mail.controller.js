@@ -16,7 +16,7 @@ const transporter = nodemailer.createTransport({
 const sendMail = (to, subject, text, html, attachments) => {
     const mailOptions = {
         from: {
-            name: "Veer Rajpoot | SPORTS ADMIN MAIL",
+            name: "Mr Saifi | SPORTS ADMIN MAIL",
             address: process.env.SMTP_EMAIL,
         },
         to,

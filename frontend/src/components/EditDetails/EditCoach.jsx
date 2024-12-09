@@ -97,9 +97,9 @@ function EditCoach() {
                         className="animate-spin inline-block w-8 h-8 rounded-full border-4 border-b-blue-500"
                         role="status"
                     ></div>
-                    {/* Veer Rajpoot Text fluid animation */}
+                    {/* Mr Saifi Text fluid animation */}
                     <div className="text-3xl font-bold text-blue-500">
-                        Veer Rajpoot
+                        Mr Saifi
                     </div>
 
                     <div className="text-3xl font-bold text-blue-500">
@@ -129,10 +129,10 @@ function EditCoach() {
                     </button>
                 </h3>
                 <div className="mt-4">
-                    <p className="text-center">Powered by Veer Rajpoot</p>
+                    <p className="text-center">Powered by Mr Saifi</p>
                     <img
                         className="h-14 mx-auto invert"
-                        src="https://res.cloudinary.com/dwiouayh7/image/upload/v1728839717/My%20Brand/veerRajpoot_mplaff.png"
+                        src="https://i.ibb.co/Ny7Y5ST/image-removebg-preview.png"
                         alt="Data Updated Successfully"
                     />
                 </div>
@@ -152,10 +152,10 @@ function EditCoach() {
                     is not expired on the dashboard
                 </p>
                 <div className="mt-4">
-                    <p className="text-center">Powered by Veer Rajpoot</p>
+                    <p className="text-center">Powered by Mr Saifi</p>
                     <img
                         className="h-14 mx-auto invert"
-                        src="https://res.cloudinary.com/dwiouayh7/image/upload/v1728839717/My%20Brand/veerRajpoot_mplaff.png"
+                        src="https://i.ibb.co/Ny7Y5ST/image-removebg-preview.png"
                         alt="Data Updated Successfully"
                     />
                 </div>
@@ -172,10 +172,10 @@ function EditCoach() {
                     Expired
                 </h3>
                 <div className="mt-4">
-                    <p className="text-center">Powered by Veer Rajpoot</p>
+                    <p className="text-center">Powered by Mr Saifi</p>
                     <img
                         className="h-14 mx-auto invert"
-                        src="https://res.cloudinary.com/dwiouayh7/image/upload/v1728839717/My%20Brand/veerRajpoot_mplaff.png"
+                        src="https://i.ibb.co/Ny7Y5ST/image-removebg-preview.png"
                         alt="No data found"
                     />
                 </div>

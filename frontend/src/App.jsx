@@ -259,9 +259,9 @@ const Auth = () => {
                             className="animate-spin inline-block w-8 h-8 rounded-full border-4 border-b-blue-500"
                             role="status"
                         ></div>
-                        {/* Veer Rajpoot Text fluid animation */}
+                        {/* Mr Saifi Text fluid animation */}
                         <div className="text-3xl font-bold text-blue-500">
-                            Veer Rajpoot
+                            Mr Saifi
                         </div>
 
                         <div className="text-3xl font-bold text-blue-500">
@@ -310,7 +310,7 @@ const Auth = () => {
                 <footer className="p-4 dark:text-gray-50 w-full mt-4">
                     <div className="ml-auto w-full">
                         <p className="text-right text-sm mt-2">
-                            Made with ❤️ by Veer Rajpoot
+                            Made with ❤️ by Mr Saifi
                             <span className="text-xs ml-2 text-gray-400">
                                 {new Date().getFullYear()}
                             </span>

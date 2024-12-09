@@ -7,14 +7,14 @@ function NotFound() {
             </p>
             <div className="text-center">
                 <img
-                    src="https://res.cloudinary.com/dwiouayh7/image/upload/v1728839717/My%20Brand/veerRajpoot_mplaff.png"
+                    src="https://i.ibb.co/Ny7Y5ST/image-removebg-preview.png"
                     alt="Logo"
                     className="h-32 mb-4"
                 />
                 <p className="text-lg text-gray-600">
                     Powered by{" "}
                     <span className="font-semibold text-red-600">
-                        Veer Rajpoot
+                        Mr Saifi
                     </span>
                 </p>
             </div>

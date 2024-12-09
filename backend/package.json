@@ -8,7 +8,7 @@
     "start": "node src/main.js",
     "dev": "nodemon src/main.js"
   },
-  "author": "veer rajpoot",
+  "author": "Mr Saifi",
   "license": "ISC",
   "description": "",
   "dependencies": {
