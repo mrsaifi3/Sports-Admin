@@ -225,25 +225,25 @@ const Auth = () => {
 
                     <div className="flex gap-5 mt-4">
                         <a
-                            href="https://github.com/rahoolsingh"
+                            href="https://github.com/mrsaifi3"
                             target="_blank"
                         >
                             <i className="fab fa-github text-2xl text-gray-500 hover:text-black"></i>
                         </a>
                         <a
-                            href="https://www.instagram.com/i.veerrajpoot/"
+                            href="https://www.instagram.com/mr_saifi_3/"
                             target="_blank"
                         >
                             <i className="fab fa-instagram text-2xl text-gray-500 hover:text-black"></i>
                         </a>
                         <a
-                            href="https://www.x.com/i_veerrajpoot"
+                            href="https://www.x.com/mrsaifi3"
                             target="_blank"
                         >
                             <i className="fab fa-x-twitter text-2xl text-gray-500 hover:text-black"></i>
                         </a>
                         <a
-                            href="https://www.linkedin.com/in/rahoolsingh/"
+                            href="https://www.linkedin.com/in/mrsaifi3/"
                             target="_blank"
                         >
                             <i className="fab fa-linkedin text-2xl text-gray-500 hover:text-black"></i>
